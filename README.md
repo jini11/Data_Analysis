@@ -1,2 +1,5 @@
-# Data Analysis
-bluemoon dream study
+### 블루문드림 데이터 분석 수업  
+ 
+- 10월: 파이썬 기본 문법 수업
+- (10.6)[Data_Analysis/10.6]: pandas를 이용한 데이터 분석 기본 실습
+- 
