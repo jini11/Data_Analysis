@@ -6,6 +6,7 @@
 - [11.02](https://github.com/jini11/Data_Analysis/tree/main/11.02) : Alexa top sites 크롤링 실습
 - [11.03](https://github.com/jini11/Data_Analysis/tree/main/11.03) : CGV 영화 리뷰 크롤링 실습
 - [11/06](https://github.com/jini11/Data_Analysis/tree/main/11.06) : 벅스 뮤직 top 100 크롤링 실습, 2021.6.1 ~ 2021.6.13 시간별 따릉이 대여수 시각화  
-- [11/09](https://github.com/jini11/Data_Analysis/tree/main/11.09) : 데이터 전처리 실습, 1년치 날씨, 시간 데이터 수집(1week 프로젝트)  
+- [11/09](https://github.com/jini11/Data_Analysis/tree/main/11.09) : 데이터 전처리 실습, 1년치 날씨, 시간 데이터 수집(1week 프로젝트) 
+- [11/10](https://github.com/jini11/Data_Analysis/tree/main/11.10) : 머신러닝 모델 실습, 데이터 전처리 수행(1week 프로젝트)
 - [11/11](https://github.com/jini11/Data_Analysis/tree/main/11.11) : 데이터 시각화 실습(1week 프로젝트), kNN 모델 시도
  
