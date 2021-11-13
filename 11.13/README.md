@@ -1,5 +1,5 @@
 ## 1. 이미지 데이터 전처리  
-Chap5-1, Chap5-2, Chap5-3 실습 실시  
+[Chap5-1](https://github.com/jini11/Data_Analysis/blob/main/11.13/Chap5-1.ipynb), [Chap5-2](https://github.com/jini11/Data_Analysis/blob/main/11.13/Chap5-2.ipynb), [Chap5-3](https://github.com/jini11/Data_Analysis/blob/main/11.13/Chap5-3.ipynb) 실습 실시  
  
 ## 2. teachable machine을 이용한 이미지 인식 실습 및 모델 다운받아 colab에서 실행
  
