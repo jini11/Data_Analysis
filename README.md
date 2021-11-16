@@ -9,5 +9,6 @@
 - [11/09](https://github.com/jini11/Data_Analysis/tree/main/11.09) : 데이터 전처리 실습, 1년치 날씨, 시간 데이터 수집(1week 프로젝트) 
 - [11/10](https://github.com/jini11/Data_Analysis/tree/main/11.10) : 머신러닝 모델 실습, 데이터 전처리 수행(1week 프로젝트)
 - [11/11](https://github.com/jini11/Data_Analysis/tree/main/11.11) : 데이터 시각화 실습(1week 프로젝트), kNN 모델 시도
-- [11/13](https://github.com/jini11/Data_Analysis/tree/main/11.11) : 이미지 데이터 전처리, teachable machine을 이용한 이미지 인식 실습, 데이터 예측 모델 만들기 실습(1week 프로젝트)
+- [11/13](https://github.com/jini11/Data_Analysis/tree/main/11.11) : 이미지 데이터 전처리, teachable machine을 이용한 이미지 인식 실습, 데이터 예측 모델 만들기 실습(1week 프로젝트)  
+- [11/16](https://github.com/jini11/Data_Analysis/tree/main/11.16) : 네이버 AI API를 이용한 실습, 1 week 프로젝트 주제 선정
  
