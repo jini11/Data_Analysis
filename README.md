@@ -15,5 +15,6 @@
 - [11/18](https://github.com/jini11/Data_Analysis/tree/main/11.18) : 네이버 AI API를 이용한 실습3, 1 week 프로젝트 데이터 전처리  
 - [11/20](https://github.com/jini11/Data_Analysis/tree/main/11.20) : 네이버 AI API를 이용한 실습4, 1 week 프로젝트 데이터 예측 모델 
 - [11/23](https://github.com/jini11/Data_Analysis/tree/main/11.23) : 네이버 CLOVA CHATBOT 실습1, 1 week 프로젝트 데이터 예측 모델 
-- [11/24](https://github.com/jini11/Data_Analysis/tree/main/11.24) : 네이버 CLOVA CHATBOT 실습2, 1 week 프로젝트 데이터 예측 모델 
+- [11/24](https://github.com/jini11/Data_Analysis/tree/main/11.24) : 네이버 CLOVA CHATBOT 실습2, 1 week 프로젝트 데이터 예측 모델
+- [11/25](https://github.com/jini11/Data_Analysis/tree/main/11.25) : 자연어 처리 실습, 1 week 프로젝트 데이터 예측 모델 
  
