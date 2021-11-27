@@ -17,4 +17,7 @@
 - [11/23](https://github.com/jini11/Data_Analysis/tree/main/11.23) : 네이버 CLOVA CHATBOT 실습1, 1 week 프로젝트 데이터 예측 모델 
 - [11/24](https://github.com/jini11/Data_Analysis/tree/main/11.24) : 네이버 CLOVA CHATBOT 실습2, 1 week 프로젝트 데이터 예측 모델
 - [11/25](https://github.com/jini11/Data_Analysis/tree/main/11.25) : 자연어 처리 실습, 1 week 프로젝트 데이터 예측 모델 
+- [11/27](https://github.com/jini11/Data_Analysis/tree/main/11.27) : 데이터 예측 프로젝트 최종 발표
+
+
  
