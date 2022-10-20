@@ -1,6 +1,6 @@
 ### 블루문드림 데이터 분석 수업  
 
-천안시에서 주관하는 데이터 분석 무료 교육입니다.  
+천안시에서 주관하는 데이터 분석 무료 교육입니다. (홈페이지 주소: https://bluemoondream.kr/72/?idx=8016529&bmode=view)  
  
 - 10월: 파이썬 기본 문법 수업
 - [10.6](https://github.com/jini11/Data_Analysis/tree/main/10.6) : pandas를 이용한 데이터 분석 기본 실습  
